@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek S
 
-<!--
-**ABHISHEK-S-14/ABHISHEK-S-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Embedded Systems & Front-End Developer passionate about building real-world tech. I’ve recently built **MedConnect**, a responsive healthcare platform – check it out below 👇
 
-Here are some ideas to get you started:
+🔗 [Live Demo](https://abhishek-s-14.github.io/medconnect-frontend/)  
+💻 [MedConnect Repo](https://github.com/ABHISHEK-S-14/medconnect-frontend)  
+📫 reddyabhishek631@gmail.com  
+📍 Bangalore, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-s-5435a9264/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Skills
+- C, C++
+- HTML, CSS, JavaScript, Tailwind CSS
+- Verilog, Embedded Systems
+- IoT & Microcontroller Projects
